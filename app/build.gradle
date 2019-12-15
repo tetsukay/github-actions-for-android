@@ -11,7 +11,7 @@ android {
         applicationId "app.tetsukay.githubactionsforandroid"
         minSdkVersion 22
         targetSdkVersion 29
-        versionCode b
+        versionCode c
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
