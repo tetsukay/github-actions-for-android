@@ -16,5 +16,7 @@ jobs:
     - name: Build with Gradle
       run: |
         pwd
-        chmod +x ./gradlew
-        sudo ./gradlew build
+        cat /proc/cpuinfo
+        cat /proc/meminfo
+#        chmod +x ./gradlew
+#        sudo ./gradlew build
